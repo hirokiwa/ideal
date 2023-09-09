@@ -1,11 +1,11 @@
 # ideal
 
-<img src="https://github.com/hirokiwa/qr-code-reader/assets/89170014/70c6743a-1bd1-4885-a7e7-26fbd0c03f32">
+<img src="https://github.com/hirokiwa/qr-code-reader/assets/89170014/70c6743a-1bd1-4885-a7e7-26fbd0c03f32" width=800px>
 <br>
 
-<p style="font-weight:bold">アイデアの取引サービス。アイデアがほしいあなたに。</p>
+**アイデアの取引サービス。アイデアがほしいあなたに。**
 
-使ってみる 👉 https://idealapp.vercel.app
+使ってみる 👉  [アイデア取引プラットフォーム ideal](https://idealapp.vercel.app)
 
 ## プロダクト詳細
 ### ideal
